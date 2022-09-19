@@ -110,6 +110,6 @@ while '_' in blanks:
         on_screen = (' ').join(list(blanks))
         print(f'Correct guess: {guess}, lives: {lives}')
         print(on_screen)
-prin()
+print()
 print('*' * 20)
 print('You won.')
